@@ -1,6 +1,6 @@
 global:
   sysdig:
-    accessKey: ${sysdigAccessKey}                  # Sysdig Agent Access Key
+    accessKey: 9ab3-c3d2-f42e-f42e-5c04                 # Sysdig Agent Access Key FAKE
     region: ${sysdigRegion}
   kspm:
     deploy: true
